@@ -6,3 +6,4 @@ git commit -m "add content to README"
 git push -u
 
 Implementing a modification
+git pull
